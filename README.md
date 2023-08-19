@@ -1,2 +1,1 @@
-# PasswordGenerator
-Created with CodeSandbox
+https://2kfqk7.csb.app/
